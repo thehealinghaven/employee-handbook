@@ -1,0 +1,187 @@
+# Platform-neutral navigation for The Healing Haven Employee Manual.
+# Describes the identical tree to docs.json. Edit both together.
+# Page slugs are root-relative, no extension.
+
+- section: Welcome
+  pages:
+    - slug: introduction
+      title: Welcome to The Healing Haven
+    - slug: welcome/how-to-use-this-manual
+      title: How to Use This Manual
+    - slug: welcome/who-we-are
+      title: Who We Are and Who We Serve
+
+- section: Employment
+  pages:
+    - slug: employment/at-will-employment
+      title: At-Will Employment
+    - slug: employment/equal-employment-opportunity
+      title: Equal Employment Opportunity
+    - slug: employment/accommodations
+      title: Accommodations
+    - slug: employment/employment-classifications
+      title: Employment Classifications
+    - slug: employment/personnel-records
+      title: Personnel Records
+    - slug: employment/background-checks
+      title: Background Checks
+    - slug: employment/exclusion-screening
+      title: Exclusion Screening
+    - slug: employment/licensure-and-credentialing
+      title: Licensure and Credentialing
+    - slug: employment/clinical-supervision
+      title: Clinical Supervision for CSWs
+
+- section: Pay, hours, and time off
+  pages:
+    - slug: pay-and-time-off/pay-and-payroll
+      title: Pay and Payroll
+    - slug: pay-and-time-off/timekeeping-and-overtime
+      title: Timekeeping and Overtime
+    - slug: pay-and-time-off/production-bonus
+      title: Production Bonus
+    - slug: pay-and-time-off/benefits-allowance
+      title: Benefits Allowance
+    - slug: pay-and-time-off/benefits-elections
+      title: Benefits Elections
+    - slug: pay-and-time-off/continuing-education-stipend
+      title: Continuing Education Stipend
+    - slug: pay-and-time-off/expense-reimbursement
+      title: Expense Reimbursement
+    - slug: pay-and-time-off/time-off-and-the-four-day-week
+      title: Time Off and the Four-Day Week
+    - slug: pay-and-time-off/holidays
+      title: Holidays
+    - slug: pay-and-time-off/sick-time
+      title: Sick Time
+    - slug: pay-and-time-off/other-leave
+      title: Other Leave
+
+- section: Conduct and the workplace
+  pages:
+    - slug: conduct/code-of-conduct
+      title: Code of Conduct
+    - slug: conduct/your-rights-at-work
+      title: Your Rights at Work
+    - slug: conduct/professional-boundaries
+      title: Professional Boundaries and Dual Relationships
+    - slug: conduct/anti-harassment
+      title: Anti-Harassment, Discrimination, and Retaliation
+    - slug: conduct/workplace-violence
+      title: Workplace Violence and Threats
+    - slug: conduct/drug-and-alcohol-free-workplace
+      title: Drug- and Alcohol-Free Workplace
+    - slug: conduct/attendance
+      title: Attendance and Punctuality
+    - slug: conduct/professional-presentation
+      title: Professional Presentation
+    - slug: conduct/conflicts-of-interest
+      title: Conflicts of Interest and Outside Employment
+    - slug: conduct/gifts-from-clients
+      title: Gifts From Clients
+    - slug: conduct/personal-devices
+      title: Personal Phone and Device Use
+
+- section: Privacy, HIPAA, and security
+  pages:
+    - slug: privacy-and-security/hipaa-overview
+      title: HIPAA and Our Obligations
+    - slug: privacy-and-security/privacy-rule-and-minimum-necessary
+      title: Privacy Rule and Minimum Necessary
+    - slug: privacy-and-security/security-rule-and-ephi
+      title: Security Rule and ePHI Safeguards
+    - slug: privacy-and-security/passwords-and-user-accounts
+      title: Passwords and User Accounts
+    - slug: privacy-and-security/devices-mobile-and-texting
+      title: Devices, Mobile, and Texting
+    - slug: privacy-and-security/email-and-electronic-communication
+      title: Email and Electronic Communication
+    - slug: privacy-and-security/remote-work-and-telehealth
+      title: Remote Work and Telehealth Privacy
+    - slug: privacy-and-security/ai-tools-three-color-rule
+      title: AI Tools and the Three-Color Rule
+    - slug: privacy-and-security/social-media
+      title: Social Media and Client Privacy
+    - slug: privacy-and-security/breach-and-incident-reporting
+      title: Breach and Privacy Incident Reporting
+    - slug: privacy-and-security/client-complaints-and-grievances
+      title: Client Complaints and Grievances
+    - slug: privacy-and-security/records-retention
+      title: Records Retention
+    - slug: privacy-and-security/release-of-information
+      title: Release of Information
+
+- section: Clinical practice
+  pages:
+    - slug: clinical-practice/scope-of-practice
+      title: Scope of Practice and Licensure Boundaries
+    - slug: clinical-practice/documentation-standards
+      title: Documentation Standards
+    - slug: clinical-practice/crisis-and-safety-protocol
+      title: Client Crisis and Safety Protocol
+    - slug: clinical-practice/mandatory-reporting
+      title: Mandatory Reporting and Duty to Warn
+    - slug: clinical-practice/emergency-and-after-hours-coverage
+      title: Emergency and After-Hours Coverage
+    - slug: clinical-practice/ending-services-and-referrals
+      title: Ending Services and Referring Out
+    - slug: clinical-practice/supervision-and-consultation
+      title: Supervision and Consultation
+
+- section: Operations
+  pages:
+    - slug: operations/systems-we-use
+      title: Systems We Use
+    - slug: operations/getting-access
+      title: Getting Access and What Your Access Covers
+    - slug: operations/scheduling-cancellations-no-shows
+      title: Scheduling, Cancellations, and No-Shows
+    - slug: operations/billing-basics-for-clinicians
+      title: Billing Basics for Clinicians
+    - slug: operations/sop-library
+      title: The SOP Library
+    - slug: operations/meetings-and-communication
+      title: Team Meetings and Communication Norms
+    - slug: operations/office-and-facility
+      title: Office and Facility
+    - slug: operations/emergency-evacuation-and-fire-safety
+      title: Emergency Evacuation and Fire Safety
+    - slug: operations/workplace-injuries-and-workers-comp
+      title: Workplace Injuries and Workers' Compensation
+
+- section: Leaving
+  pages:
+    - slug: leaving/performance-reviews
+      title: Performance Reviews
+    - slug: leaving/corrective-action
+      title: Corrective Action
+    - slug: leaving/resignation-and-notice
+      title: Resignation and Notice
+    - slug: leaving/final-pay
+      title: Final Pay
+    - slug: leaving/offboarding-and-access-revocation
+      title: Offboarding and Access Revocation
+    - slug: leaving/what-survives-employment
+      title: What Survives Employment
+    - slug: leaving/return-of-property-and-client-transition
+      title: Return of Property and Client Transition
+
+- section: Acknowledgment
+  pages:
+    - slug: acknowledgment
+      title: Employee Acknowledgment
+
+- section: Reference
+  pages:
+    - slug: reference/glossary
+      title: Glossary
+    - slug: reference/who-to-contact
+      title: Who to Contact for What
+    - slug: reference/required-postings
+      title: Required Workplace Postings
+    - slug: reference/compliance-map
+      title: Compliance Map
+    - slug: reference/open-items
+      title: Open Items
+    - slug: reference/changelog
+      title: Version History and Changelog

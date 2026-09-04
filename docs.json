@@ -1,0 +1,208 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "The Healing Haven Employee Manual",
+  "description": "Employee manual for The Healing Haven (Helen DeLovely LCSW PLLC), Salt Lake City.",
+  "theme": "willow",
+  "colors": {
+    "primary": "#8C7344",
+    "light": "#DDC9A3",
+    "dark": "#B89968"
+  },
+  "favicon": "/favicon.svg",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "fonts": {
+    "heading": {
+      "family": "Fraunces"
+    },
+    "body": {
+      "family": "Manrope"
+    }
+  },
+  "appearance": {
+    "default": "system",
+    "strict": false
+  },
+  "background": {
+    "color": {
+      "light": "#F5EEE0",
+      "dark": "#252220"
+    }
+  },
+  "icons": {
+    "library": "lucide"
+  },
+  "styling": {
+    "eyebrows": "section"
+  },
+  "seo": {
+    "indexing": "navigable"
+  },
+  "search": {
+    "prompt": "Search the manual..."
+  },
+  "footer": {
+    "links": [
+      {
+        "header": "The Healing Haven",
+        "items": [
+          {
+            "label": "Who to contact",
+            "href": "/reference/who-to-contact"
+          },
+          {
+            "label": "Open items",
+            "href": "/reference/open-items"
+          },
+          {
+            "label": "Changelog",
+            "href": "/reference/changelog"
+          }
+        ]
+      }
+    ]
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Welcome",
+        "icon": "hand",
+        "pages": [
+          "introduction",
+          "welcome/how-to-use-this-manual",
+          "welcome/who-we-are"
+        ]
+      },
+      {
+        "group": "Employment",
+        "icon": "briefcase",
+        "pages": [
+          "employment/at-will-employment",
+          "employment/equal-employment-opportunity",
+          "employment/accommodations",
+          "employment/employment-classifications",
+          "employment/personnel-records",
+          "employment/background-checks",
+          "employment/exclusion-screening",
+          "employment/licensure-and-credentialing",
+          "employment/clinical-supervision"
+        ]
+      },
+      {
+        "group": "Pay, hours, and time off",
+        "icon": "banknote",
+        "pages": [
+          "pay-and-time-off/pay-and-payroll",
+          "pay-and-time-off/timekeeping-and-overtime",
+          "pay-and-time-off/production-bonus",
+          "pay-and-time-off/benefits-allowance",
+          "pay-and-time-off/benefits-elections",
+          "pay-and-time-off/continuing-education-stipend",
+          "pay-and-time-off/expense-reimbursement",
+          "pay-and-time-off/time-off-and-the-four-day-week",
+          "pay-and-time-off/holidays",
+          "pay-and-time-off/sick-time",
+          "pay-and-time-off/other-leave"
+        ]
+      },
+      {
+        "group": "Conduct and the workplace",
+        "icon": "handshake",
+        "pages": [
+          "conduct/code-of-conduct",
+          "conduct/your-rights-at-work",
+          "conduct/professional-boundaries",
+          "conduct/anti-harassment",
+          "conduct/workplace-violence",
+          "conduct/drug-and-alcohol-free-workplace",
+          "conduct/attendance",
+          "conduct/professional-presentation",
+          "conduct/conflicts-of-interest",
+          "conduct/gifts-from-clients",
+          "conduct/personal-devices"
+        ]
+      },
+      {
+        "group": "Privacy, HIPAA, and security",
+        "icon": "lock",
+        "pages": [
+          "privacy-and-security/hipaa-overview",
+          "privacy-and-security/privacy-rule-and-minimum-necessary",
+          "privacy-and-security/security-rule-and-ephi",
+          "privacy-and-security/passwords-and-user-accounts",
+          "privacy-and-security/devices-mobile-and-texting",
+          "privacy-and-security/email-and-electronic-communication",
+          "privacy-and-security/remote-work-and-telehealth",
+          "privacy-and-security/ai-tools-three-color-rule",
+          "privacy-and-security/social-media",
+          "privacy-and-security/breach-and-incident-reporting",
+          "privacy-and-security/client-complaints-and-grievances",
+          "privacy-and-security/records-retention",
+          "privacy-and-security/release-of-information"
+        ]
+      },
+      {
+        "group": "Clinical practice",
+        "icon": "stethoscope",
+        "pages": [
+          "clinical-practice/scope-of-practice",
+          "clinical-practice/documentation-standards",
+          "clinical-practice/crisis-and-safety-protocol",
+          "clinical-practice/mandatory-reporting",
+          "clinical-practice/emergency-and-after-hours-coverage",
+          "clinical-practice/ending-services-and-referrals",
+          "clinical-practice/supervision-and-consultation"
+        ]
+      },
+      {
+        "group": "Operations",
+        "icon": "settings",
+        "pages": [
+          "operations/systems-we-use",
+          "operations/getting-access",
+          "operations/scheduling-cancellations-no-shows",
+          "operations/billing-basics-for-clinicians",
+          "operations/sop-library",
+          "operations/meetings-and-communication",
+          "operations/office-and-facility",
+          "operations/emergency-evacuation-and-fire-safety",
+          "operations/workplace-injuries-and-workers-comp"
+        ]
+      },
+      {
+        "group": "Leaving",
+        "icon": "door-open",
+        "pages": [
+          "leaving/performance-reviews",
+          "leaving/corrective-action",
+          "leaving/resignation-and-notice",
+          "leaving/final-pay",
+          "leaving/offboarding-and-access-revocation",
+          "leaving/what-survives-employment",
+          "leaving/return-of-property-and-client-transition"
+        ]
+      },
+      {
+        "group": "Acknowledgment",
+        "icon": "pen-line",
+        "pages": [
+          "acknowledgment"
+        ]
+      },
+      {
+        "group": "Reference",
+        "icon": "book",
+        "pages": [
+          "reference/glossary",
+          "reference/who-to-contact",
+          "reference/required-postings",
+          "reference/compliance-map",
+          "reference/open-items",
+          "reference/changelog"
+        ]
+      }
+    ]
+  }
+}
