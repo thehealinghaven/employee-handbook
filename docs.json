@@ -41,7 +41,7 @@
     "indexing": "navigable"
   },
   "search": {
-    "prompt": "Search the manual..."
+    "prompt": "Search the handbook..."
   },
   "footer": {
     "links": [
@@ -209,5 +209,17 @@
         ]
       }
     ]
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "assistant",
+      "view",
+      "claude"
+    ],
+    "display": "header"
+  },
+  "interaction": {
+    "drilldown": true
   }
 }
