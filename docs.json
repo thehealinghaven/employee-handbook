@@ -62,7 +62,12 @@
           }
         ]
       }
-    ]
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@thehealinghavenslc",
+      "github": "https://github.com/thehealinghaven",
+      "website": "https://helendelovely.com"
+    }
   },
   "navigation": {
     "groups": [
